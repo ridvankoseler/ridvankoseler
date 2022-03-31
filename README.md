@@ -3,22 +3,22 @@
 <!--
 **ridvankoseler/ridvankoseler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Hi there 👋  NAME is here. (LOADING...)
+############### Hi there 👋  NAME is here. (LOADING...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/) 
 <a href="https://GİTHUB-USERNAME.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB-USERNAME" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠     ZAMANLA DÜZENLENECEK KISIM
+### What I'm using ? 🛠    
 
 I prefer React & React Native for web/mobile front-end development.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- Python, HTML5, CSS3, Git, GitHub , Jira , Agile 
 
-- 💬 Ask  me about anything that you want to learn
+- 💬My name is Rıdvan KÖSELER and I graduated from Turkish Military Academy in 2013.I am taking Full-stack Developer training from clarusway.Currently, I have learned Html5, CSS, Python, Jira, SQL, Agile, Git, GitHub lessons.I have learned these subjects for now.My course continues. I will add the sections I learned above. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network. 
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/USERNAME/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/r%C4%B1dvan-k%C3%B6seler-b16b99185/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
