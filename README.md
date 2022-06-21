@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’ve been learning Python, HTML, CSS, Bootstrap, JavaScript, SQL
 - 💬 Ask me anything about Tech World.
-- 📫 You can reach me in here[LinkedIn](https://www.linkedin.com/in/r%C4%B1dvan-k%C3%B6seler-b16b99185)
+- 📫 You can reach me in here  [LinkedIn](https://www.linkedin.com/in/r%C4%B1dvan-k%C3%B6seler-b16b99185)
 
 ## Languages & Tools  🛠
 
@@ -20,4 +20,4 @@
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehmetCakir1&theme=codeSTACKr&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=ridvankoseler&theme=codeSTACKr&show_icons=true" >
